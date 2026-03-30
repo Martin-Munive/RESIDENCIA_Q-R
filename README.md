@@ -51,7 +51,7 @@ graph TD
     D --> E[Desarrollo SIFCEM-Mobile]
     E --> F[Motor de Variabilidad Activo]
     F --> G[Lanzamiento: Ecosistema de Inteligencia Clínica]
-    style F fill:#f9f,stroke:#333,stroke-width:2px
+    style F fill:#00d4ff,stroke:#bd00ff,stroke-width:4px
 ```
 
 ---
