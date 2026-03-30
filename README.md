@@ -1,4 +1,3 @@
-```markdown
 # 🩺 Preparación para el Examen de Residencia de Medicina Interna
 
 <p align="center">
@@ -40,28 +39,3 @@ graph LR
     B --> D[Validación Médica]
     C & D --> E[Archivo CSV]
     E --> F[(MS Access)]
-```
-
-## 📈 Progreso del Proyecto
-
-### **Estado Actual:**
-
-*   **Fase 1:** Configuración de IA 🟢
-*   **Fase 2:** Definición de Esquema DB 🟡
-*   **Fase 3:** Carga de Preguntas ⚪
-*   **Fase 4:** Diccionario de Conceptos ⚪
-
-### **Métricas de Control:**
-
-| Elemento             | Meta  | Actual | Progreso |
-| :------------------- | :---- | :----- | :----------- |
-| **Preguntas** | 1000+ | 0 | `░░░░░░░░░░` 0% |
-| **Conceptos** | 500+ | 0 | `░░░░░░░░░░` 0% |
-| **Validación** | 100% | 0 | `░░░░░░░░░░` 0% |
-
----
-<p align="center">
-  <b>Mantente actualizado con los cambios siguiendo este repositorio.</b><br>
-  <i>"La medicina es una ciencia de incertidumbre y un arte de probabilidad." - William Osler</i>
-</p>
-```
