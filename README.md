@@ -27,7 +27,7 @@ Nuestro objetivo es trascender la memorización superficial. Mediante algoritmos
 *   **🎯 Segmentación Modular:** Entrenamiento focalizado por especialidades (Cardiología, Oncología, Nefrología, etc.) para fortalecer áreas de competencia específicas.
 *   **📊 Estructura de Datos Escalable:** Transición de prototipos locales en MS Access hacia arquitecturas masivas de datos para el análisis de desempeño profesional.
 
-## ️ Roadmap y Stack Tecnológico
+## 🛠️ Roadmap y Stack Tecnológico
 
 | Fase | Estatus | Stack Principal |
 | :--- | :---: | :--- |
@@ -35,7 +35,7 @@ Nuestro objetivo es trascender la memorización superficial. Mediante algoritmos
 | **Fase 2: Motor Lógico** | 🏗️ | Python (FastAPI), Algoritmo de Rotación de Distractores. |
 | **Fase 3: Mobile Deployment** | 📅 | React Native / Flutter, PostgreSQL, Redis (Cache). |
 
-##  Arquitectura del Repositorio
+## 📂 Arquitectura del Repositorio
 
 - 📁 `banco_evidencia/`: Dataset de reactivos clínicos y metadatos de validación.
 - 📁 `ontologia_medica/`: Glosario estructurado y terminología estandarizada.
@@ -80,4 +80,11 @@ El paso de MS Access a una arquitectura móvil representa la transición de un "
 2.  [2] Jameson, J. L., et al. (2022). *Harrison's Principles of Internal Medicine*. 21st Edition. McGraw Hill.
 3.  [3] Larsen, D. P., et al. (2008). Test-enhanced learning in medical education. *Medical Education*.
 
-**CÓDIGO: 001 (Perfiles identificados: TURING, NEUMANN, CURIE, RESEARCH-CODE)**
+---
+<p align="center">
+  <i>"La medicina es una ciencia de incertidumbre y un arte de probabilidad."</i><br>
+  <b>— William Osler</b>
+</p>
+
+<p align="center"><b>© 2024 ANASKAI — Todos los derechos reservados.</b></p>
+<p align="center"><i>Innovación tecnológica aplicada a la formación médica de alto rendimiento.</i></p>
